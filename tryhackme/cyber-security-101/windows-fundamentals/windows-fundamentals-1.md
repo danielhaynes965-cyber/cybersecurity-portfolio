@@ -27,10 +27,13 @@ This room introduces the core structure of the Windows operating system, includi
 ```bash
 # View local users and groups
 lusrmgr.msc
+
 # Open Task Manager
 Ctrl + Shift + Esc
+
 # Access Control Panel (legacy settings)
 control.exe
+
 ```
 
 ---
