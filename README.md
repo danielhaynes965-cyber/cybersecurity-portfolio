@@ -38,28 +38,28 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 
 ## 🔎 How This Repo Works
 
-### TryHackMe (`/tryhackme`)
-Writeups and notes from TryHackMe rooms, organised by path. Each entry follows 
-a consistent format: summary, key concepts, commands, personal takeaways, and 
-references. Only rooms with meaningful content are included — not every room 
-gets a writeup.
+### CTF Writeups (`/ctf-writeups`)
+Writeups from CTF competitions (picoCTF, DownUnderCTF, etc.). Each writeup 
+covers the challenge, my approach, and the solution. Added from mid-2026 onward.
+
+### Fundamentals (`/fundamentals`)
+Quick-reference cheatsheets for core concepts — networking, Linux, web, 
+cryptography, and more. Condensed, practical, and written in my own words.
 
 ### HackTheBox (`/htb`)
 Machine writeups from HackTheBox, organised by tier. These will be more 
 open-ended than THM — less guided, more personal methodology. Added from 
 mid-2026 onward.
 
-### CTF Writeups (`/ctf-writeups`)
-Writeups from CTF competitions (picoCTF, DownUnderCTF, etc.). Each writeup 
-covers the challenge, my approach, and the solution. Added from mid-2026 onward.
-
 ### Tools (`/tools`)
 Small Python and Bash utilities built from scratch. Each tool includes comments, 
 usage examples, and safety notes. Added as they're built.
 
-### Fundamentals (`/fundamentals`)
-Quick-reference cheatsheets for core concepts — networking, Linux, web, 
-cryptography, and more. Condensed, practical, and written in my own words.
+### TryHackMe (`/tryhackme`)
+Writeups and notes from TryHackMe rooms, organised by path. Each entry follows 
+a consistent format: summary, key concepts, commands, personal takeaways, and 
+references. Only rooms with meaningful content are included — not every room 
+gets a writeup.
 
 ---
 
