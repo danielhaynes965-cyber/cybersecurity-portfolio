@@ -27,5 +27,5 @@ The main ideas, in my own words, keeping it concise.
 
 ---
 
-## References
+## References (if any)
 - [Relevant docs or links]
