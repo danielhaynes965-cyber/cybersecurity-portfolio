@@ -1,6 +1,9 @@
 # Linux Fundamentals 1
+
 **Path:** Cyber Security 101 > Linux Fundamentals
+
 **Date Completed:** Nov 29, 2025
+
 **Difficulty:** Easy
 
 ---
