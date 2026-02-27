@@ -17,12 +17,16 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 
 /
 ├── ctf-writeups/
+|
 ├── fundamentals/           # Linux, networking, web, and IT basics
+|
 ├── htb/
 │   ├── starting-point/
 │   ├── tier-0/
 │   └── tier-1/
+|
 ├── tools/                  # small Python utilities
+|
 └── tryhackme/
     ├── intro-to-cyber/
     ├── junior-pentester/
