@@ -62,7 +62,7 @@ Short, distilled notes that act as reference material.
 - **Languages:** Python (scripts/automation), Bash  
 - **Security:** Burp Suite basics, OWASP Top 10, recon/enumeration  
 - **Networking:** TCP/IP, DNS, HTTP, OSI model, troubleshooting  
-- **Platforms:** TryHackMe (Intro → Jr Pentester), HackTheBox (Starting Point)
+- **Platforms:** TryHackMe (Intro → Jr Pentester)
 
 **Growing into:**
 - privilege escalation  
@@ -85,16 +85,7 @@ Short, distilled notes that act as reference material.
 
 ---
 
-## ⚙️ Tools (Planned Examples)
-
-- `portscan.py` — multithreaded TCP port scanner  
-- `dirfinder.py` — directory brute-forcer  
-- `http-recon.py` — header & tech fingerprinting  
-
-Each tool will include:
-- usage examples  
-- comments  
-- safety notes  
+## ⚙️ Tools (In Progress)
 
 ---
 
