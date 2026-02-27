@@ -28,7 +28,7 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 ├── tools/
 |
 └── tryhackme/
-    ├── intro-to-cyber/
+    ├── cyber-security-101/
     ├── junior-pentester/
     └── pre-security/
 
@@ -69,7 +69,7 @@ gets a writeup.
 - **Languages:** Python (scripts/automation), Bash  
 - **Security:** Burp Suite basics, OWASP Top 10, recon/enumeration  
 - **Networking:** TCP/IP, DNS, HTTP, OSI model, troubleshooting  
-- **Platforms:** TryHackMe (Intro → Jr Pentester)
+- **Platforms:** TryHackMe (Cyber 101 → Jr Pentester)
 
 **Growing into:**
 - privilege escalation  
@@ -83,7 +83,7 @@ gets a writeup.
 ## 🗺️ 2026 Roadmap
 
 - Set up GitHub portfolio
-- Complete THM Intro to Cyber
+- Complete THM Cyber Security 101
 - Finish THM Junior Pentester (mid‑year)
 - Start HTB Starting Point → Tier 0/Tier 1
 - Build 1–2 Python tools
