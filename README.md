@@ -29,8 +29,7 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 |
 └── tryhackme/
     ├── cyber-security-101/
-    ├── junior-pentester/
-    └── pre-security/
+    └── junior-pentester/
 
 ```
 
