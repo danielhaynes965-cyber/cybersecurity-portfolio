@@ -1,6 +1,9 @@
 # [Room Name]
+
 **Path:** [Path] > [Module]  
+
 **Date Completed:** [Date]  
+
 **Difficulty:** Easy / Medium / Hard
 
 ---
