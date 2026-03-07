@@ -10,7 +10,7 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 
 ```plaintext
