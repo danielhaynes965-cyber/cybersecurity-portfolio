@@ -16,53 +16,40 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 ```plaintext
 
 /
-├── ctf-writeups/
-|
-├── fundamentals/
-|
-├── htb/
-│   ├── starting-point/
-│   ├── tier-0/
-│   └── tier-1/
-|
+├── cheatsheets/
 ├── tools/
-|
-└── tryhackme/
-    ├── cyber-security-101/
-    └── junior-pentester/
+└── writeups/
+    ├── htb/
+    │   ├── challenges/
+    │   └── machines/
+    └── tryhackme/
+        ├── challenges/
+        ├── cryptography/
+        ├── exploitation/
+        ├── linux/
+        ├── networking/
+        ├── tooling/
+        └── windows/
 
 ```
 
 ---
 
-## 🔎 How This Repo Works
+## How This Repo Works
 
-### CTF Writeups (`/ctf-writeups`)
-Writeups from CTF competitions (picoCTF, DownUnderCTF, etc.). Each writeup 
-covers the challenge, my approach, and the solution. Added from mid-2026 onward.
+Writeups are organised by platform and concept rather than by course or learning path. This keeps related knowledge grouped together as skills develop across multiple sources.
 
-### Fundamentals (`/fundamentals`)
-Quick-reference cheatsheets for core concepts — networking, Linux, web, 
-cryptography, and more. Condensed, practical, and written in my own words.
+**writeups/tryhackme/** contains room writeups grouped by concept — linux, windows, networking, cryptography, tooling, and exploitation. The challenges folder contains flag-based rooms that required independent problem solving rather than guided learning.
 
-### HackTheBox (`/htb`)
-Machine writeups from HackTheBox, organised by tier. These will be more 
-open-ended than THM — less guided, more personal methodology. Added from 
-mid-2026 onward.
+**writeups/htb/** contains Hack The Box writeups split between machines and challenges. These are only published after the content is no longer active.
 
-### Tools (`/tools`)
-Small Python and Bash utilities built from scratch. Each tool includes comments, 
-usage examples, and safety notes. Added as they're built.
+**tools/** contains scripts and utilities I've built during labs and practice.
 
-### TryHackMe (`/tryhackme`)
-Writeups and notes from TryHackMe rooms, organised by path. Each entry follows 
-a consistent format: summary, key concepts, commands, personal takeaways, and 
-references. Only rooms with meaningful content are included — not every room 
-gets a writeup.
+**cheatsheets/** contains personal quick-reference sheets for commands, tools, and concepts.
 
 ---
 
-## 🧰 Current Skills
+## Current Skills
 
 - **Systems:** Linux (Kali, Ubuntu), Windows basics, CLI  
 - **Languages:** Python (scripts/automation), Bash  
@@ -79,7 +66,7 @@ gets a writeup.
 
 ---
 
-## 🗺️ 2026 Roadmap
+## 2026 Roadmap
 
 - Set up GitHub portfolio
 - Complete THM Cyber Security 101
@@ -91,7 +78,7 @@ gets a writeup.
 
 ---
 
-## 🛡 Ethical Notice
+## Ethical Notice
 
 This repository is for **legal, educational use only**.  
 Do not test targets without explicit permission.  
@@ -99,7 +86,7 @@ All content is provided without warranty (see MIT License).
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Author:** Daniel Haynes  
 - **Alias:** *Xenithu* (username on platforms like THM)
@@ -108,7 +95,7 @@ All content is provided without warranty (see MIT License).
 
 ---
 
-## 📄 License
+## License
 
 Released under the **MIT License**.  
 Free to use, modify, and share with attribution.
