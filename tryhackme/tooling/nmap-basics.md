@@ -90,5 +90,5 @@ nmap -oA [basename] [target]
 
 ---
 
-## References (if any)
+## References
 - [Nmap Official Documentation](https://nmap.org/book/man.html)
