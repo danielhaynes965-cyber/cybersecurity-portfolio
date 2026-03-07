@@ -16,7 +16,6 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 ```plaintext
 
 /
-├── cheatsheets/
 ├── tools/
 └── writeups/
     ├── htb/
@@ -40,13 +39,11 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
 
 Writeups are organised by platform and concept rather than by course or learning path. This keeps related knowledge grouped together as skills develop across multiple sources.
 
-**writeups/tryhackme/** contains room writeups grouped by concept — linux, windows, networking, cryptography, tooling, and exploitation. The challenges folder contains flag-based rooms that required independent problem solving rather than guided learning.
+**writeups/tryhackme/** contains room writeups grouped by concept — linux, windows, networking, cryptography, tooling, etc... The challenges folder contains flag-based rooms that required independent problem solving rather than guided learning.
 
 **writeups/htb/** contains Hack The Box writeups split between machines and challenges. These are only published after the content is no longer active.
 
 **tools/** contains scripts and utilities I've built during labs and practice.
-
-**cheatsheets/** contains personal quick-reference sheets for commands, tools, and concepts.
 
 ---
 
