@@ -29,6 +29,7 @@ This repository contains my cybersecurity and pentesting portfolio: hands-on lab
         ├── linux/
         ├── networking/
         ├── tooling/
+        ├── web/
         └── windows/
 
 ```
