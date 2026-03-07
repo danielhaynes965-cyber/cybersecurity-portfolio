@@ -14,16 +14,14 @@ This room explores the foundational mechanics of asymmetric and symmetric encryp
 ---
 
 ## Key Concepts
+#### Concepts
 * Asymmetric (AKA public key) encryption uses a public key for encryption and a private key for decryption.
 * Symmetric (AKA private key) encryption uses the same key for both processes, making it faster but harder to distribute safely.
 * Confidentiality ensures only authorized parties can read the data.
 * Integrity ensures that data remains untampered with while in transit.
 * Authenticity verifies the identity of the sender to prevent spoofing.
 
-
----
-
-## RSA Variables & Operations
+#### RSA Variables & Operations
 * RSA security relies on the mathematical difficulty of factoring large prime numbers p and q.
 * The modulus n is calculated by multiplying p and q (n = p * q).
 * Euler's Totient phi(n) is calculated as (p-1) * (q-1).
@@ -32,16 +30,12 @@ This room explores the foundational mechanics of asymmetric and symmetric encryp
 * Encryption is performed using the formula: c = m^e mod n.
 * Decryption is performed using the formula: m = c^d mod n.
 
-
----
-
-## Diffie-Hellman Key Exchange
+#### Diffie-Hellman Key Exchange
 * Parties establish a shared secret over insecure channels using a public base g and prime p.
 * Alice chooses a private key a and Bob chooses a private key b.
 * Alice generates a public key A = g^a mod p.
 * Bob generates a public key B = g^b mod p.
 * The shared secret S is calculated as S = B^a mod p by Alice and S = A^b mod p by Bob.
-
 
 ---
 
