@@ -66,5 +66,5 @@ arp # Captures Address Resolution Protocol traffic.
 
 ---
 
-## References (if any)
+## References
 - [tcpdump Manual Page](https://www.tcpdump.org/manpages/tcpdump.1.html)
